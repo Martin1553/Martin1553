@@ -5,7 +5,7 @@ Soy un apasionado Full Stack Software Developer de Mendoza, Argentina.
 
 🔭 Actualmente estoy en la busqueda de mi primer experiencia en el mundo IT
 
-🌱 Soy estudiante del Bootcamp FullStack de la academia Soy Henry
+🌱 Soy estudiante del Bootcamp Full Stack de la academia Soy Henry
 
 <h3>Mi toolkit: </h3>
 

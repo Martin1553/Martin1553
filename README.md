@@ -1,5 +1,13 @@
-### Siempre en la búsqueda de nuevos desafíos, me gusta aplicar on-site aquellos aprendizajes nuevos que obtengo, pues son las oportunidades para demostrar de lo que soy capaz. Formado como Full Stack Web Developer, pero enamorado del Backend y sus posibilidades, dirijo mis prácticas con ese rumbo.
+### 
+Qué tal! 👋🏽 Soy Martín Sebastián Di Paola.
 
+Soy un apasionado Full Stack Software Developer de Mendoza, Argentina.
+
+🔭 Actualmente estoy en la busqueda de mi primer experiencia en el mundo IT
+
+🌱 Soy estudiante del Bootcamp FullStack de la academia Soy Henry
+
+https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465
 <!--
 **Martin1553/Martin1553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
